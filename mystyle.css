@@ -1,0 +1,10 @@
+
+
+body {background-color: lightblue}
+h1 {color: crimson; font-family: verdana; font-size: 200%;}
+p {color: green; font-family: courier; font-size: 100%}
+
+
+.banner { position: relative; overflow: auto; }
+    .banner li { list-style: none; }
+        .banner ul li { float: left; }
